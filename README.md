@@ -20,6 +20,9 @@
 - Express.js
 - Firebase
 - PostgreSQL
+- React Testing Library 
+- Jest 
+- Linux
 
 # Contact 📩
 
