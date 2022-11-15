@@ -22,6 +22,8 @@
 - PostgreSQL
 - React Testing Library 
 - Jest 
+- Cypress
+- Cypress Testing Library
 - Linux
 
 # Contact 📩
