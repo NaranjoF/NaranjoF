@@ -26,6 +26,9 @@ I really like creating things, and my goal is to improve myself every day!.
 - 🎿 Hobbies other than coding : Play games 🎮, Read about technology 💻, Listen to music 🎵
 - 📫 How to reach me: Facundo.naranjo00@gmail.com
 
+  <br/>
+  <br/>
+
 ### 🛠️ Languages and Tools:
 
 ![TypeScript](https://shields.io/badge/TypeScript-black?logo=TypeScript&logoColor=FFF&style=flat-square)
