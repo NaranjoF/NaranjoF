@@ -8,7 +8,7 @@
 ## About Me :wave:
 
 <p>
-A Front End TypeScript Developer 🚀 from Argentina. I consider myself a versatile person and with great ease to learn/improve skills, I stand out for frontend development, but I also like backend development ❤️.
+A Full Stack TypeScript Developer 🚀 from Argentina. I consider myself a versatile person and with great ease to learn/improve skills ❤️.
 <br/>
 Technologies I have worked with : Next.js, Prisma, PostgreSQL, Nest.js, Redux, Husky, Jest, Cypress, and more!
 <br/>
