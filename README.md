@@ -22,7 +22,7 @@ I really like creating things, and my goal is to improve myself every day!.
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working on <a href="https://github.com/ScaleMote">Scalemote</a> (Full Stack Dev.)
+- 👨🏽‍💻 I’m currently working at <a href="https://github.com/ScaleMote">Scalemote</a> (Full Stack Dev.)
 - 🎿 Hobbies other than coding : Play games 🎮, Read about technology 💻, Listen to music 🎵
 - 📫 How to reach me: Facundo.naranjo00@gmail.com
 
