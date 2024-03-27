@@ -3,8 +3,6 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naranjofacundo/)](https://www.linkedin.com/in/naranjofacundo/)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:facundo.naranjo00@gmail.com)](mailto:facundo.naranjo00@gmail.com)
 
-<p align="center"> :octocat: <b><a href="https://portfolio-naranjo-facundo.vercel.app/">Website</a> :octocat: </p>
-
 ## About Me :wave:
 
 <p>
@@ -22,9 +20,9 @@ I really like creating things, and my goal is to improve myself every day!.
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working at <a href="https://github.com/ScaleMote">Scalemote</a> (Full Stack Dev.)
+- 👨🏽‍💻 I’m currently working at <a href="https://github.com/bigger-tech">Bigger</a> (Full Stack Dev.)
 - 🎿 Hobbies other than coding : Play games 🎮, Read about technology 💻, Listen to music 🎵
-- 📫 How to reach me: Facundo.naranjo00@gmail.com
+- 📫 How to reach me: facundo.naranjo00@gmail.com
 
   <br/>
   <br/>
