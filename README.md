@@ -6,9 +6,9 @@
 ## About Me :wave:
 
 <p>
-A Full Stack TypeScript Developer 🚀 from Argentina. I consider myself a versatile person and with great ease to learn/improve skills ❤️.
+A backend Developer 🚀 from Argentina. I consider myself a versatile person and with great ease to learn/improve skills ❤️.
 <br/>
-Technologies I have worked with : Next.js, Prisma, PostgreSQL, Nest.js, Redux, Husky, Jest, Cypress, and more!
+Some technologies I have worked with : Nest.js, AWS, Docker, Express.js, Jest, TypeScript, SQL
 <br/>
 I really like creating things, and my goal is to improve myself every day!.
 <br/>
@@ -30,20 +30,10 @@ I really like creating things, and my goal is to improve myself every day!.
 ### 🛠️ Languages and Tools:
 
 ![TypeScript](https://shields.io/badge/TypeScript-black?logo=TypeScript&logoColor=FFF&style=flat-square)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
-![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
-![PostgreSQL](https://shields.io/badge/PostgreSQL-black?logo=PostgreSQL&logoColor=FFF&style=flat-square)
+![NestJS](https://shields.io/badge/NestJS-black?logo=nestjs&logoColor=FFF&style=flat-square)
+![Express.js](https://shields.io/badge/express-black?logo=express&logoColor=FFF&style=flat-square)
+![MySQL](https://shields.io/badge/MySQL-black?logo=mysql&logoColor=FFF&style=flat-square)
 ![Jest](https://shields.io/badge/Jest-black?logo=Jest&logoColor=FFF&style=flat-square)
-![Cypress](https://shields.io/badge/Cypress-black?logo=Cypress&logoColor=FFF&style=flat-square)
+![Docker](https://shields.io/badge/Docker-black?logo=DOCKER&logoColor=FFF&style=flat-square)
 ![And More!](https://shields.io/badge/And%20more!-black)
